@@ -88,9 +88,8 @@ plt.show()
 
 ## Output
 
-<p align="center"><img width="554" height="152" alt="image" src="https://github.com/user-attachments/assets/2d205e73-c274-4224-ab65-5391ba502145" /></p>
-<p align="center"><img width="567" height="152" alt="image" src="https://github.com/user-attachments/assets/ae64101c-3a15-4740-8d7a-a5a9cb1f643f" /></p>
-<p align="center"><img width="554" height="152" alt="image" src="https://github.com/user-attachments/assets/03a90b08-15c7-4c08-9c52-0d107924df65" /></p>
+<img width="567" height="413" alt="image" src="https://github.com/user-attachments/assets/6c893ecf-8e1c-4fba-b3c1-d9f8fedd7ab8" />
+
 
 ---
 
